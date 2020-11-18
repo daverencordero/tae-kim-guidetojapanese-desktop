@@ -24,9 +24,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/bootstrap/dist/js/bootstrap.min.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -119,6 +122,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "guidetojapanese"
+    }
+  },
+  "defaultProject": "guidetojapanese",
+  "cli": {
+    "analytics": "ccc139b5-b5d1-4fe0-8f45-02f019bc8c18"
+  }
 }
