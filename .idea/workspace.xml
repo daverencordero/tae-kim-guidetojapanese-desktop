@@ -26,19 +26,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2161489-ab66-4630-846a-501afe202c07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/advanced-topics/advanced-topics.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/basic-grammar/basic-grammar.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/essential-grammar/essential-grammar.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/special-expressions/special-expressions.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/writing-system.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/chapter-overview/chapter-overview.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/chapter-overview/chapter-overview.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/hiragana/hiragana.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/hiragana/hiragana.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/hiragana/hiragana.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/hiragana/hiragana.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/writing-system-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/writing-system.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/landing-page/landing-page.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/landing-page/landing-page.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/landing-page/landing-page.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/templates/lesson-section/lesson-section.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/templates/lesson-section/lesson-section.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/templates/lesson-section/lesson-section.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/templates/templates.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/app-routing.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/app.component.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/app.component.spec.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/header/header.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/header/header.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/writing-system.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/writing-system.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/header/header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/header/header.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/navigation/navigation.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/navigation/navigation.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/navigation/navigation.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/navigation/navigation.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/panel/panel.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/chapter-overview/chapter-overview.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/panel/panel.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/panel/panel.component.ts" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +83,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Renea\Documents\GitHub\tae-kim-guidetojapanese-desktop\guidetojapanese\src\app\templates" />
       <recent name="C:\Users\Renea\Documents\GitHub\tae-kim-guidetojapanese-desktop\guidetojapanese\src\app\chapters" />
     </key>
   </component>
@@ -109,7 +125,7 @@
       <workItem from="1606281907435" duration="473000" />
       <workItem from="1606282435959" duration="6649000" />
       <workItem from="1606289230881" duration="328000" />
-      <workItem from="1607078593252" duration="5426000" />
+      <workItem from="1607078593252" duration="12467000" />
     </task>
     <task id="LOCAL-00001" summary="Improved Navigation">
       <created>1606288222981</created>

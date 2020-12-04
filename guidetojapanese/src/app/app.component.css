@@ -1,3 +1,7 @@
 .navigation-container{
   background-color: white;
 }
+
+.panel-container{
+  padding: 10pt 10pt;
+}
