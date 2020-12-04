@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2161489-ab66-4630-846a-501afe202c07" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/header/header.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/header/header.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/header/header.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/navigation/navigation.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/navigation/navigation.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1klj6eY9Lg7HNLRX9mnVDDCi8CZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/guidetojapanese/package.json" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="C:\Users\Renea\Documents\GitHub\tae-kim-guidetojapanese-desktop\guidetojapanese\node_modules\typescript\lib" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/guidetojapanese/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm">
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2161489-ab66-4630-846a-501afe202c07" name="Default Changelist" comment="" />
+      <created>1606281902851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606281902851</updated>
+      <workItem from="1606281907435" duration="473000" />
+      <workItem from="1606282435959" duration="6649000" />
+      <workItem from="1606289230881" duration="328000" />
+      <workItem from="1607078593252" duration="2462000" />
+    </task>
+    <task id="LOCAL-00001" summary="Improved Navigation">
+      <created>1606288222981</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606288222981</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Improved Navigation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Improved Navigation" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="64" y="63" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606282222692">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="64" y="63" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1606282222692" />
+    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1606282169041">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606282169041" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1607079287061">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607079287061" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1607079287061">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607079287061" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1607079287059">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607079287059" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1607079287061">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607079287061" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1606282096590">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606282096590" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606289258952">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606289258952" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1607079624223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1607079624223" />
+  </component>
+</project>
