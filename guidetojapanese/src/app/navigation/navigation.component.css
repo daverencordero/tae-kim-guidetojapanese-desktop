@@ -24,11 +24,10 @@
   outline: none;
   text-align: left;
   background-color: white;
-  border-radius: 100pt;
   padding: 0 5pt;
   margin: 5pt 0;
-  border: 0;
-  box-shadow: 0pt 0pt 3pt #C1E1EB;
+  border: 1pt solid #4158D0;
+  border-radius: 100pt;
 }
 
 .chapter-subsections{

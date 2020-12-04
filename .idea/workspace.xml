@@ -26,12 +26,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2161489-ab66-4630-846a-501afe202c07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/header/header.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/header/header.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/header/header.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/advanced-topics/advanced-topics.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/basic-grammar/basic-grammar.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/essential-grammar/essential-grammar.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/special-expressions/special-expressions.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/writing-system.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/app.component.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/app.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/header/header.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/header/header.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/header/header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/header/header.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/navigation/navigation.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/navigation/navigation.component.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/guidetojapanese/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/styles.css" afterDir="false" />
     </list>
@@ -60,6 +65,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="C:\Users\Renea\Documents\GitHub\tae-kim-guidetojapanese-desktop\guidetojapanese\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Renea\Documents\GitHub\tae-kim-guidetojapanese-desktop\guidetojapanese\src\app\chapters" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="js.build_tools.gulp">
@@ -99,7 +109,7 @@
       <workItem from="1606281907435" duration="473000" />
       <workItem from="1606282435959" duration="6649000" />
       <workItem from="1606289230881" duration="328000" />
-      <workItem from="1607078593252" duration="2462000" />
+      <workItem from="1607078593252" duration="5426000" />
     </task>
     <task id="LOCAL-00001" summary="Improved Navigation">
       <created>1606288222981</created>
