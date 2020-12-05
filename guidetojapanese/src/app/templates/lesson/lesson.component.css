@@ -1,0 +1,5 @@
+.lesson-container{
+  padding: 50pt 30pt;
+  height: 100vh;
+  overflow: auto;
+}

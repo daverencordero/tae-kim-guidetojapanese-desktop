@@ -1,4 +1,10 @@
+.navigation-container{
+  max-height: 100vh;
+  overflow: auto;
+}
+
 .chapter-list-group{
+  padding-top: 40pt;
   width: 90%;
 }
 

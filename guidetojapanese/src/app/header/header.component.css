@@ -1,5 +1,8 @@
 .navbar{
   background-color: #5E60CE;
+  width: 100vw;
+  position: fixed;
+  z-index: 9;
 }
 
 .navbar-brand{

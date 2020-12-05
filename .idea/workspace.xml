@@ -26,30 +26,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2161489-ab66-4630-846a-501afe202c07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/kanji/kanji.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/kanji/kanji.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/kanji/kanji.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/katakana/katakana.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/katakana/katakana.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/katakana/katakana.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/templates/lesson/lesson.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/templates/lesson/lesson.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/templates/lesson/lesson.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/app.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/chapter-overview/chapter-overview.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/chapter-overview/chapter-overview.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/chapter-overview/chapter-overview.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/chapter-overview/chapter-overview.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/hiragana/hiragana.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/hiragana/hiragana.component.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/hiragana/hiragana.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/hiragana/hiragana.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/hiragana/hiragana.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/hiragana/hiragana.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/hiragana/hiragana.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/writing-system-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/writing-system-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/writing-system.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/writing-system.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/header/header.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/header/header.component.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/navigation/navigation.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/navigation/navigation.component.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/navigation/navigation.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/navigation/navigation.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/templates/lesson-section/lesson-section.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/templates/lesson-section/lesson-section.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/templates/lesson-section/lesson-section.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/templates/lesson-section/lesson-section.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/templates/templates.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/templates/templates.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/templates/lesson/lesson.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/templates/lesson/lesson.component.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/guidetojapanese/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,7 +108,7 @@
       <workItem from="1606282435959" duration="6649000" />
       <workItem from="1606289230881" duration="328000" />
       <workItem from="1607078593252" duration="12855000" />
-      <workItem from="1607139439653" duration="5596000" />
+      <workItem from="1607139439653" duration="13906000" />
     </task>
     <task id="LOCAL-00001" summary="Improved Navigation">
       <created>1606288222981</created>

@@ -2,6 +2,7 @@
   background-color: white;
 }
 
-.panel-container{
-  padding: 20pt 35pt;
+.row{
+  flex-wrap: nowrap;
+  margin: 0;
 }
