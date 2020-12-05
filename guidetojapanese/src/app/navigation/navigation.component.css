@@ -7,7 +7,8 @@
   border: 0;
   margin: 5pt 0 5pt 0;
   font-weight: bold;
-  background-image: linear-gradient(45deg, #4158D0, #C850C0, #FFCC70);
+  /*border-bottom: 3pt solid #F6B6BC;*/
+  background-image: linear-gradient(45deg, #5390D9, #56CFE1, #48BFE3);
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: 100% 3pt;
@@ -24,14 +25,14 @@
   text-align: left;
   background-color: white;
   color: black;
-  padding: 0 5pt;
+  padding: 0 10pt;
   margin: 5pt 0;
-  border: 1pt solid #4158D0;
+  border: 1pt solid #5390D9;
   border-radius: 100pt;
 }
 
-.chapter-items-button:hover{
-  background-color: #4158D0;
+.chapter-items-button:hover, .active-button{
+  background-color: #5390D9;
   color: white;
 }
 

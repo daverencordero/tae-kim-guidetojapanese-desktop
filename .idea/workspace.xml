@@ -26,8 +26,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2161489-ab66-4630-846a-501afe202c07" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/kanji/kanji.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/kanji/kanji.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/kanji/kanji.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/katakana/katakana.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/katakana/katakana.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/katakana/katakana.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/templates/lesson/lesson.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/templates/lesson/lesson.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/templates/lesson/lesson.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/chapter-overview/chapter-overview.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/chapter-overview/chapter-overview.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/chapter-overview/chapter-overview.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/chapter-overview/chapter-overview.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/hiragana/hiragana.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/hiragana/hiragana.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/hiragana/hiragana.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/hiragana/hiragana.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/hiragana/hiragana.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/writing-system-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/writing-system-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/writing-system.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/writing-system.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/header/header.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/header/header.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/navigation/navigation.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/navigation/navigation.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/navigation/navigation.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/navigation/navigation.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/templates/lesson-section/lesson-section.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/templates/lesson-section/lesson-section.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/templates/lesson-section/lesson-section.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/templates/lesson-section/lesson-section.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/templates/templates.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/templates/templates.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +123,7 @@
       <workItem from="1606282435959" duration="6649000" />
       <workItem from="1606289230881" duration="328000" />
       <workItem from="1607078593252" duration="12855000" />
+      <workItem from="1607139439653" duration="5596000" />
     </task>
     <task id="LOCAL-00001" summary="Improved Navigation">
       <created>1606288222981</created>
@@ -148,26 +172,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="64" y="63" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1606282222692" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607144539506">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1607144539506" />
     <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1606282169041">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606282169041" />
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1607091557928">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1607140186066">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607091557928" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1607091557928">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607140186066" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1607140186066">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607091557928" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1607091557928">
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607140186066" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1607140186066">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607091557928" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1607091557928">
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607140186066" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1607140186066">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607091557928" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607140186066" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1606282096590">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
