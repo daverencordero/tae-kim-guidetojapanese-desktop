@@ -3,3 +3,19 @@
   height: 100vh;
   overflow: auto;
 }
+
+.lesson-title{
+  font-family: "Montserrat", "Myriad Pro", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1pt;
+}
+
+.lesson-body{
+  font-family: "Raleway", sans-serif;
+}
+
+mark{
+  font-weight: bold;
+  padding: 0;
+  color: #5390d9;
+}

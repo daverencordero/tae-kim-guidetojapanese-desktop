@@ -1,4 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
 body, html{
-  background-color: #FEF5EF;
+  background-color: #FFFFFF;
+}
+
+@font-face {
+  font-family: Montserrat;
+  src: local("Montserrat"), url("./assets/fonts/Montserrat-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: Raleway;
+  src: local("Raleway"), url("./assets/fonts/Raleway-Regular.ttf") format("truetype");
 }

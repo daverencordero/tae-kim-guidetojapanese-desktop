@@ -1,3 +1,13 @@
 .lesson-section-container{
   margin: 25pt 0pt;
 }
+
+.section-title{
+  font-family: "Montserrat", sans-serif;
+  border-bottom: 1pt solid lightgrey;
+}
+
+.section-body{
+  font-family: "Raleway", sans-serif;
+}
+

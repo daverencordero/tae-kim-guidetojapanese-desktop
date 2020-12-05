@@ -3,7 +3,7 @@ import { Component, OnInit } from '@angular/core';
 @Component({
   selector: 'app-kanji',
   templateUrl: './kanji.component.html',
-  styleUrls: ['./kanji.component.css']
+  styleUrls: ['../../../templates/lesson/lesson.component.css']
 })
 export class KanjiComponent implements OnInit {
 
