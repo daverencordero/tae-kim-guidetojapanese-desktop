@@ -5,13 +5,16 @@
 }
 
 .lesson-title{
-  font-family: "Montserrat", "Myriad Pro", sans-serif;
+  font-family: NotoSans, sans-serif;
+  font-weight: bold;
+  color: darkslategrey;
   text-transform: uppercase;
   letter-spacing: 1pt;
 }
 
 .lesson-body{
-  font-family: "Raleway", sans-serif;
+  font-family: NotoSans, sans-serif;
+  font-size: 12pt;
 }
 
 mark{

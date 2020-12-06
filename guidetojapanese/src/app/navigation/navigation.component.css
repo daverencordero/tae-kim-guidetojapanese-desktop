@@ -9,12 +9,12 @@
 }
 
 .chapter-header{
-  color: black;
+  color: darkslategrey;
   border: 0;
   margin: 5pt 0 5pt 0;
   letter-spacing: 1pt;
   font-size: 10pt;
-  font-family: Montserrat, sans-serif;
+  font-family: NotoSans, sans-serif;
   background-image: linear-gradient(45deg, #5390D9, #56CFE1, #48BFE3);
   background-repeat: no-repeat;
   background-position: center bottom;
@@ -44,7 +44,7 @@
 }
 
 .chapter-subsections{
-  font-family: "Raleway", sans-serif;
+  font-family: NotoSans, sans-serif;
   color: inherit;
   margin: 5pt 0;
 }

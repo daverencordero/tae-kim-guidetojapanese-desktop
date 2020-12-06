@@ -4,11 +4,28 @@ body, html{
 }
 
 @font-face {
-  font-family: Montserrat;
-  src: local("Montserrat"), url("./assets/fonts/Montserrat-Regular.ttf") format("truetype");
+  font-family: NotoSans;
+  src: local("NotoSans"), url("./assets/fonts/NotoSans-Regular.ttf") format("truetype");
+  font-weight: normal;
 }
 
 @font-face {
-  font-family: Raleway;
-  src: local("Raleway"), url("./assets/fonts/Raleway-Regular.ttf") format("truetype");
+  font-family: NotoSans;
+  src: local("NotoSans"), url("./assets/fonts/NotoSans-Bold.ttf") format("truetype");
+  font-weight: bold;
 }
+
+@font-face {
+  font-family: NotoSans;
+  src: local("NotoSans"), url("./assets/fonts/NotoSans-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: NotoSans;
+  src: local("NotoSans"), url("./assets/fonts/NotoSans-BoldItalic.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic;
+}
+
