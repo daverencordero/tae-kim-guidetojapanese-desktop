@@ -7,7 +7,6 @@ import {WritingSystemRoutingModule} from "./writing-system-routing.module";
 import {WritingSystemComponent} from "./writing-system.component";
 import { KatakanaComponent } from './katakana/katakana.component';
 import { KanjiComponent } from './kanji/kanji.component';
-import { AdditionalSoundsComponent } from './additional-sounds/additional-sounds.component';
 
 
 
@@ -18,7 +17,6 @@ import { AdditionalSoundsComponent } from './additional-sounds/additional-sounds
     WritingSystemComponent,
     KatakanaComponent,
     KanjiComponent,
-    AdditionalSoundsComponent
   ],
   imports: [
     CommonModule,

@@ -3,13 +3,8 @@
 }
 
 .section-title{
-  font-family: NotoSans, sans-serif;
   color: darkslategrey;
   padding-bottom: 5pt;
   border-bottom: 1.5pt solid lightgrey;
-}
-
-.section-body{
-  font-family: "Raleway", sans-serif;
 }
 

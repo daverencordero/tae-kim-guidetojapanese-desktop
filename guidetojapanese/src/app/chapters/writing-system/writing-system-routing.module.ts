@@ -5,7 +5,6 @@ import {ChapterOverviewComponent} from "./chapter-overview/chapter-overview.comp
 import {WritingSystemComponent} from "./writing-system.component";
 import {KatakanaComponent} from "./katakana/katakana.component";
 import {KanjiComponent} from "./kanji/kanji.component";
-import {AdditionalSoundsComponent} from "./additional-sounds/additional-sounds.component";
 
 const routes: Routes = [
   {
@@ -16,7 +15,6 @@ const routes: Routes = [
       {path:'Chapter-Overview', component: ChapterOverviewComponent},
       {path:'Hiragana', component: HiraganaComponent},
       {path:'Katakana', component: KatakanaComponent},
-      {path:'Additional-Sounds', component: AdditionalSoundsComponent},
       {path:'Kanji', component: KanjiComponent}
     ]
   }

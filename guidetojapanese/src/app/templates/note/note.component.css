@@ -1,0 +1,12 @@
+.note-container{
+  border: 1pt dashed grey;
+  background-color: #fef5ef;
+  padding: 10pt;
+  margin: 10pt 25pt;
+}
+
+.note-title{
+  color: darkslategrey;
+  font-weight: bold;
+  font-size: 13pt;
+}
