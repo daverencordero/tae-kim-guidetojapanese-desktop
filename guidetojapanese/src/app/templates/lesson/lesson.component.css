@@ -22,3 +22,31 @@ mark{
   padding: 0;
   color: #5390d9;
 }
+
+.vocab{
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.vocab .vocab-text{
+  visibility: hidden;
+  background-color: white;
+  padding: 2pt 5pt;
+  border: 1pt solid lightgrey;
+  border-radius: 5pt;
+  z-index: 1;
+
+  font-size: 10pt;
+  text-align: center;
+
+  position: absolute;
+  width: max-content;
+  bottom: 110%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.vocab:hover .vocab-text{
+  visibility: visible;
+}

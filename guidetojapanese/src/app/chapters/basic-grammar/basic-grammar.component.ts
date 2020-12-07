@@ -1,10 +1,10 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-writing-system',
+  selector: 'app-basic-grammar',
   template: '<router-outlet></router-outlet>'
 })
-export class WritingSystemComponent implements OnInit {
+export class BasicGrammarComponent implements OnInit {
 
   constructor() { }
 
