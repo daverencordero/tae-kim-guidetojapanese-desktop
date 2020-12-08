@@ -26,19 +26,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2161489-ab66-4630-846a-501afe202c07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/basic-grammar/basic-grammar-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/basic-grammar/basic-grammar.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/basic-grammar/chapter-overview/chapter-overview.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/basic-grammar/chapter-overview/chapter-overview.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/basic-grammar/expressing-state/expressing-state.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/basic-grammar/expressing-state/expressing-state.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/basic-grammar/intro-particles/intro-particles.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/basic-grammar/intro-particles/intro-particles.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/app-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/basic-grammar/basic-grammar.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/basic-grammar/basic-grammar.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/writing-system.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/writing-system/writing-system.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/navigation/navigation.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/navigation/navigation.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/basic-grammar/expressing-state/expressing-state.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/basic-grammar/expressing-state/expressing-state.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/basic-grammar/intro-particles/intro-particles.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/chapters/basic-grammar/intro-particles/intro-particles.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/guidetojapanese/src/app/templates/lesson/lesson.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/guidetojapanese/src/app/templates/lesson/lesson.component.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,7 +107,10 @@
       <workItem from="1607176915472" duration="3999000" />
       <workItem from="1607245394763" duration="2980000" />
       <workItem from="1607324236084" duration="7265000" />
-      <workItem from="1607332340288" duration="5840000" />
+      <workItem from="1607332340288" duration="6398000" />
+      <workItem from="1607339029625" duration="299000" />
+      <workItem from="1607339417230" duration="366000" />
+      <workItem from="1607406834682" duration="4867000" />
     </task>
     <task id="LOCAL-00001" summary="Improved Navigation">
       <created>1606288222981</created>
@@ -174,22 +167,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606282169041" />
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1607332611632">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1607411743672">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607332611632" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1607332611631">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607411743672" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1607411743672">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607332611631" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1607332611631">
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607411743672" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1607411743672">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607332611631" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1607332611632">
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607411743672" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1607411743672">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607332611632" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607411743672" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1607331543632">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
