@@ -6,6 +6,9 @@ import { ChapterOverviewComponent } from './chapter-overview/chapter-overview.co
 import { ExpressingStateComponent } from './expressing-state/expressing-state.component';
 import { IntroParticlesComponent } from './intro-particles/intro-particles.component';
 import {TemplatesModule} from "../../templates/templates.module";
+import { AdjectivesComponent } from './adjectives/adjectives.component';
+import { VerbBasicsComponent } from './verb-basics/verb-basics.component';
+import { NegativeVerbsComponent } from './negative-verbs/negative-verbs.component';
 
 
 
@@ -14,7 +17,10 @@ import {TemplatesModule} from "../../templates/templates.module";
     BasicGrammarComponent,
     ChapterOverviewComponent,
     ExpressingStateComponent,
-    IntroParticlesComponent
+    IntroParticlesComponent,
+    AdjectivesComponent,
+    VerbBasicsComponent,
+    NegativeVerbsComponent
   ],
   imports: [
     CommonModule,

@@ -24,6 +24,10 @@ mark{
   color: #5390d9;
 }
 
+.def mark:hover{
+  color: #2b559f;
+}
+
 .def{
   position: relative;
   display: inline-block;
@@ -48,6 +52,11 @@ mark{
 
 .def:hover .def-text{
   visibility: visible;
+}
+
+.def:hover{
+  transition: all 0.1s ease-in-out;
+  transform: translateY(-2pt);
 }
 
 b{
