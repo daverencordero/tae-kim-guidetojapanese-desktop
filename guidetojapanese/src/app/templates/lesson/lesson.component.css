@@ -19,7 +19,6 @@
 
 mark{
   background-color: transparent;
-  font-weight: bold;
   padding: 0;
   color: #5390d9;
 }
@@ -46,8 +45,11 @@ mark{
   text-align: center;
 
   position: absolute;
+  max-width: 100pt;
   width: max-content;
   bottom: 110%;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .def:hover .def-text{
