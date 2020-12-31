@@ -9,6 +9,7 @@ import {TemplatesModule} from "../../templates/templates.module";
 import { AdjectivesComponent } from './adjectives/adjectives.component';
 import { VerbBasicsComponent } from './verb-basics/verb-basics.component';
 import { NegativeVerbsComponent } from './negative-verbs/negative-verbs.component';
+import { PastVerbsComponent } from './past-verbs/past-verbs.component';
 
 
 
@@ -20,7 +21,8 @@ import { NegativeVerbsComponent } from './negative-verbs/negative-verbs.componen
     IntroParticlesComponent,
     AdjectivesComponent,
     VerbBasicsComponent,
-    NegativeVerbsComponent
+    NegativeVerbsComponent,
+    PastVerbsComponent
   ],
   imports: [
     CommonModule,

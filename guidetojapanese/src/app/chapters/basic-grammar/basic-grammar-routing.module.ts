@@ -7,6 +7,7 @@ import {IntroParticlesComponent} from "./intro-particles/intro-particles.compone
 import {AdjectivesComponent} from "./adjectives/adjectives.component";
 import {VerbBasicsComponent} from "./verb-basics/verb-basics.component";
 import {NegativeVerbsComponent} from "./negative-verbs/negative-verbs.component";
+import {PastVerbsComponent} from "./past-verbs/past-verbs.component";
 
 const routes: Routes = [
   {
@@ -19,7 +20,8 @@ const routes: Routes = [
       {path:'Introduction-to-Particles', component: IntroParticlesComponent},
       {path:'Adjectives', component: AdjectivesComponent},
       {path:'Verb-Basics', component: VerbBasicsComponent},
-      {path:'Negative-Verbs', component: NegativeVerbsComponent}
+      {path:'Negative-Verbs', component: NegativeVerbsComponent},
+      {path:'Past-Verbs', component: PastVerbsComponent}
     ]
   }
 ];
